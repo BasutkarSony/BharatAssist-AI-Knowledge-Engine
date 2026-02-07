@@ -26,3 +26,5 @@ data/
 
 # Kiro metadata (not needed in repo)
 .kiro/
+
+integrations/__pycache__/
