@@ -1,0 +1,28 @@
+# Secrets & environment
+.env
+.env
+.env.local
+credentials/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Models & indexes
+models/
+*.pkl
+*.faiss
+
+# Logs & runtime data
+logs/
+logs2/
+data/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Kiro metadata (not needed in repo)
+.kiro/
